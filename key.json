@@ -2,21 +2,21 @@
   "AppConfig": {
     "bannerText": "Awaiting Authentication.",
     "getKeyText": "🔑 Get Key ↗️",
-    "getKeyUrl": "https://t.me/dpmodsdialog",
+    "getKeyUrl": "https://t.me/Trusted_Pro_Owner",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
     "loginBtnText": "AUTHENTICATE",
     "maintenanceMode": false,
-    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "maintenanceMsg": "TrustedProMods server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
-      "👨‍💻 Engine by DPMods 👨‍💻",
-      "🚀 DPMods V4 🚀",
+      "👨‍💻 Engine by TrustedPro 👨‍💻",
+      "🚀 TpFk 🚀",
       "🛠 Stable Build"
     ],
-    "title": "DPMods Core",
-    "updateMsg": "New DPMods version available! Please update.",
+    "title": "TrustedProMods Vip",
+    "updateMsg": "New TpFk version available! Please update.",
     "updateRequired": false,
-    "updateUrl": "https://t.me/dpmodsdialog"
+    "updateUrl": "https://t.me/TrustedProMods"
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
